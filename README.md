@@ -14,6 +14,53 @@
 4. В игре: **F7** — панель с биндами, клик по кнопке отправляет текст в чат. **Ctrl+F6** — остановить действие.
 5. Хоткей бинда можно нажать прямо в игре — текст уйдёт в чат.
 
+
+## Скриншоты
+
+**Главная: статистика и итоги**
+
+![Главная: статистика и итоги](https://raw.githubusercontent.com/Dream4ik5V/nova-rp-binder/main/images/binder-home.png)
+
+**Ответы**
+
+![Ответы](https://raw.githubusercontent.com/Dream4ik5V/nova-rp-binder/main/images/binder-answers.png)
+
+**Команды**
+
+![Команды](https://raw.githubusercontent.com/Dream4ik5V/nova-rp-binder/main/images/binder-commands.png)
+
+**Наказания**
+
+![Наказания](https://raw.githubusercontent.com/Dream4ik5V/nova-rp-binder/main/images/binder-punishments.png)
+
+**Настройка панели**
+
+![Настройка панели](https://raw.githubusercontent.com/Dream4ik5V/nova-rp-binder/main/images/binder-panel.png)
+
+**Заметки и браузер**
+
+![Заметки и браузер](https://raw.githubusercontent.com/Dream4ik5V/nova-rp-binder/main/images/binder-notes.png)
+
+**Настройки**
+
+![Настройки](https://raw.githubusercontent.com/Dream4ik5V/nova-rp-binder/main/images/binder-settings.png)
+
+**Редактор бинда: параметры, действия, стиль**
+
+![Редактор бинда: параметры, действия, стиль](https://raw.githubusercontent.com/Dream4ik5V/nova-rp-binder/main/images/binder-editor.png)
+
+**Подсказки команд (Ctrl+Tab)**
+
+![Подсказки команд (Ctrl+Tab)](https://raw.githubusercontent.com/Dream4ik5V/nova-rp-binder/main/images/binder-hints.png)
+
+**Панель поверх игры**
+
+![Панель поверх игры](https://raw.githubusercontent.com/Dream4ik5V/nova-rp-binder/main/images/binder-overlay.png)
+
+**Счётчик ответов**
+
+![Счётчик ответов](https://raw.githubusercontent.com/Dream4ik5V/nova-rp-binder/main/images/binder-counter.png)
+
 ## Возможности
 - Глобальные хоткеи, вставка в чат игры через буфер или «печать по буквам».
 - Панель поверх игры: вкладки, поиск, шапка/поп-ап, прозрачность, масштаб, положение, стили кнопок.
