@@ -17,49 +17,61 @@
 
 ## Скриншоты
 
-**Главная: статистика и итоги**
+**binder-about.png**
 
-![Главная: статистика и итоги](https://raw.githubusercontent.com/Dream4ik5V/nova-rp-binder/main/images/binder-home.png)
+![binder-about.png](https://raw.githubusercontent.com/Dream4ik5V/nova-rp-binder/main/images/binder-about.png)
 
 **Ответы**
 
 ![Ответы](https://raw.githubusercontent.com/Dream4ik5V/nova-rp-binder/main/images/binder-answers.png)
 
-**Команды**
+**Команды с параметрами**
 
-![Команды](https://raw.githubusercontent.com/Dream4ik5V/nova-rp-binder/main/images/binder-commands.png)
+![Команды с параметрами](https://raw.githubusercontent.com/Dream4ik5V/nova-rp-binder/main/images/binder-commands.png)
 
-**Наказания**
+**Координаты: точки кликов в окне игры**
 
-![Наказания](https://raw.githubusercontent.com/Dream4ik5V/nova-rp-binder/main/images/binder-punishments.png)
+![Координаты: точки кликов в окне игры](https://raw.githubusercontent.com/Dream4ik5V/nova-rp-binder/main/images/binder-coords.png)
 
-**Настройка панели**
+**Счётчик ответов**
 
-![Настройка панели](https://raw.githubusercontent.com/Dream4ik5V/nova-rp-binder/main/images/binder-panel.png)
+![Счётчик ответов](https://raw.githubusercontent.com/Dream4ik5V/nova-rp-binder/main/images/binder-counter.png)
 
-**Заметки и браузер**
+**Редактор бинда**
 
-![Заметки и браузер](https://raw.githubusercontent.com/Dream4ik5V/nova-rp-binder/main/images/binder-notes.png)
-
-**Настройки**
-
-![Настройки](https://raw.githubusercontent.com/Dream4ik5V/nova-rp-binder/main/images/binder-settings.png)
-
-**Редактор бинда: параметры, действия, стиль**
-
-![Редактор бинда: параметры, действия, стиль](https://raw.githubusercontent.com/Dream4ik5V/nova-rp-binder/main/images/binder-editor.png)
+![Редактор бинда](https://raw.githubusercontent.com/Dream4ik5V/nova-rp-binder/main/images/binder-editor.png)
 
 **Подсказки команд (Ctrl+Tab)**
 
 ![Подсказки команд (Ctrl+Tab)](https://raw.githubusercontent.com/Dream4ik5V/nova-rp-binder/main/images/binder-hints.png)
 
+**Главная: биндер, статистика, сравнение, последние действия**
+
+![Главная: биндер, статистика, сравнение, последние действия](https://raw.githubusercontent.com/Dream4ik5V/nova-rp-binder/main/images/binder-home.png)
+
+**Журнал**
+
+![Журнал](https://raw.githubusercontent.com/Dream4ik5V/nova-rp-binder/main/images/binder-journal.png)
+
+**Заметки и браузер**
+
+![Заметки и браузер](https://raw.githubusercontent.com/Dream4ik5V/nova-rp-binder/main/images/binder-notes.png)
+
 **Панель поверх игры**
 
 ![Панель поверх игры](https://raw.githubusercontent.com/Dream4ik5V/nova-rp-binder/main/images/binder-overlay.png)
 
-**Счётчик ответов**
+**Панель: раскладка, положение, стиль**
 
-![Счётчик ответов](https://raw.githubusercontent.com/Dream4ik5V/nova-rp-binder/main/images/binder-counter.png)
+![Панель: раскладка, положение, стиль](https://raw.githubusercontent.com/Dream4ik5V/nova-rp-binder/main/images/binder-panel.png)
+
+**Наказания**
+
+![Наказания](https://raw.githubusercontent.com/Dream4ik5V/nova-rp-binder/main/images/binder-punishments.png)
+
+**Настройки: окно игры, ввод, задержки**
+
+![Настройки: окно игры, ввод, задержки](https://raw.githubusercontent.com/Dream4ik5V/nova-rp-binder/main/images/binder-settings.png)
 
 ## Возможности
 - Глобальные хоткеи, вставка в чат игры через буфер или «печать по буквам».
